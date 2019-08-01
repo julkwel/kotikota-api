@@ -1,6 +1,6 @@
 # kotikota-api
 
-*Install composer *
+*Install composer*
 
 `$ git clone https://github.com/julkwel/kotikota-api.git`
 
